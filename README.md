@@ -1,4 +1,4 @@
-<h1>Automatic-NumberPlate-Detection-using-ANPR-Technology</h1>
+<h1>Automatic-NumberPlate-Detection</h1>
 The project on vehicle authentication integrates image detection, recognition, and Python programming to establish a robust security-based authentication system. 
 Leveraging machine learning techniques, the model is trained on a dataset comprising images containing vehicle number plates to enhance accuracy in plate recognition.
 Upon vehicle entry, the system extracts the number plate and performs a matching process against authorized plates, promptly alerting authorities in case of unauthorized access.
